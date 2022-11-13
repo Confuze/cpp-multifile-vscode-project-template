@@ -1,0 +1,3 @@
+<h1 align="center">Starter template for multifile c++ projects in vscode</h1>
+Requires the <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools">C/C++</a> extension to be installed along with gcc, g++, gdb and make.
+Mostly based on Talha Balaj's <a href="https://dev.to/talhabalaj/setup-visual-studio-code-for-multi-file-c-projects-1jpi">guide</a> with some changes of my own.
